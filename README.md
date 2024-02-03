@@ -2,7 +2,7 @@
 Hack-Diversity Team Project 
 
 Collaborators:
-  - Anmar
-  - Rhoda Nankabirwa
-  - Amy
-  - Jose Salerno
+> Anmar Abdi
+> Rhoda Nankabirwa
+> Amy Boateng
+> Jose Salerno
